@@ -1,1 +1,0 @@
-s file contain strings
